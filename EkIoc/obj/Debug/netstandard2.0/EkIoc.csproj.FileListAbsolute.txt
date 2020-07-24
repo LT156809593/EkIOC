@@ -7,12 +7,3 @@ E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIoc\obj\Debug\netstandard2.0\E
 E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIoc\obj\Debug\netstandard2.0\EkIoc.csproj.CoreCompileInputs.cache
 E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIoc\obj\Debug\netstandard2.0\EkIoc.dll
 E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIoc\obj\Debug\netstandard2.0\EkIoc.pdb
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\bin\Debug\netstandard2.0\EkIoc.deps.json
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\bin\Debug\netstandard2.0\EkIoc.dll
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\bin\Debug\netstandard2.0\EkIoc.pdb
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\obj\Debug\netstandard2.0\EkIoc.csprojAssemblyReference.cache
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\obj\Debug\netstandard2.0\EkIoc.AssemblyInfoInputs.cache
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\obj\Debug\netstandard2.0\EkIoc.AssemblyInfo.cs
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\obj\Debug\netstandard2.0\EkIoc.csproj.CoreCompileInputs.cache
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\obj\Debug\netstandard2.0\EkIoc.dll
-E:\_VisualStudioProjects\MyVSProjects\002_EkIoc\EkIocContainer-IOC-\EkIoc\obj\Debug\netstandard2.0\EkIoc.pdb
