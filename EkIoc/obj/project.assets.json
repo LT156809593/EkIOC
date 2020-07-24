@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIoc\\EkIoc.csproj",
+      "projectUniqueName": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIocContainer-IOC-\\EkIoc\\EkIoc.csproj",
       "projectName": "EkIoc",
-      "projectPath": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIoc\\EkIoc.csproj",
+      "projectPath": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIocContainer-IOC-\\EkIoc\\EkIoc.csproj",
       "packagesPath": "C:\\Users\\YanJie\\.nuget\\packages\\",
-      "outputPath": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIoc\\obj\\",
+      "outputPath": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIocContainer-IOC-\\EkIoc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YanJie\\AppData\\Roaming\\NuGet\\NuGet.Config",

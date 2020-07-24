@@ -78,6 +78,13 @@ namespace IceInk.IOC
         {
         }
 
+        /// <summary>
+        /// 私有化构造函数
+        /// 用于创建作用域单例的IOC容器
+        /// </summary>
+        /// <param name="containerDic"></param>
+        /// <param name="paraDic"></param>
+        /// <param name="scopeDic"></param>
         private EkIocContainer(Dictionary<string, EkIocContainerRegisterModel> containerDic,
             Dictionary<string, object[]> paraDic, Dictionary<string, object> scopeDic)
         {
