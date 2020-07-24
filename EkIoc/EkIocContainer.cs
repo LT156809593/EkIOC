@@ -73,7 +73,9 @@ namespace IceInk.IOC
         {
             return new EkIocContainer(this.mIocContainerDic, this.mIocParaDic, new Dictionary<string, object>());
         }
-
+        /// <summary>
+        /// 公开构造函数
+        /// </summary>
         public EkIocContainer()
         {
         }
