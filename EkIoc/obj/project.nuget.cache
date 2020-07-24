@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s94Gcgvm769a6ZJujK/O/zxZJeS1lNHc4jaUvbGTm/VB2muwdfE6Cer1r3E+6UKg0RBXDYpruV5AyPLmuDnIVQ==",
+  "success": true,
+  "projectFilePath": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIoc\\EkIoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YanJie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\YanJie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
