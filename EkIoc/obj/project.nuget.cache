@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Tb2qXsZfgX3xo7uEu3QLYlTHDrzGHla+4U0DRXhchNM9izR4UMnt4gSlTY7wK9//KM43nh5XWIfcd5m/9h3egg==",
+  "dgSpecHash": "ZkB9ib4LRi24yR7O8P4EcGV61g2/TufKZy1l/mVflBXmKESylohK3KyQPlzvmVS3mqL5Ppmf6gXsmuiYbcjfBw==",
   "success": true,
-  "projectFilePath": "E:\\_VisualStudioProjects\\MyVSProjects\\002_EkIoc\\EkIocContainer-IOC-\\EkIoc\\EkIoc.csproj",
+  "projectFilePath": "E:\\_IceInk\\EkIOC\\EkIoc\\EkIoc.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\YanJie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\YanJie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
