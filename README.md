@@ -1,4 +1,4 @@
-# EkIocContainer-IOC-
+# EkIOC
 一个IOC容器，
 # 《依赖注入》：
       在构建A对象的时候，需要依赖B对象，那么久先构造B对象并传入；
